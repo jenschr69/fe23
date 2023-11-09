@@ -1,0 +1,180 @@
+/* Glodexa Design - Masonry*/
+.wrapper {
+  margin: auto;
+  margin-top: 1rem;
+}
+
+header {
+  background-color: black;
+  margin: 0;
+  padding: 0 0 0.1rem 0;
+}
+
+header > h1 > a {
+  color: white;
+  padding-left: 0.7rem;
+}
+
+nav {
+  background-color: darkred !important;  
+  color: white;
+  margin: 0;
+  padding: 0.3rem 0rem 0.4rem 1rem;
+}
+
+/* Old Navbar styling
+nav > ul {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+nav > ul > li {
+  padding: 0 1em 0 0;
+}
+nav > ul > li > a {
+  color: black;
+}
+*/
+
+/* Main - Content container with Bootstrap 5 Masonry grid */
+main {
+  background-color: white;
+}
+
+.hr-width {
+  max-width: 1200px;
+}
+
+.card {
+  width: 300px;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0;
+}
+
+.card-col-2 {
+  width: 600px;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0;
+}
+
+.card-col-3 {
+  width: 900px;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0;
+}
+
+.card-col-4 {
+  width: 1220px;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0;
+}
+
+.card-body {
+  margin: 0;
+  padding: 0;
+}
+
+.card-title {
+  background-color: black;
+  color: white;
+  margin: 0;
+  padding: 0.2em 0 0.2em 0.5em;
+  font-size: 1.4em;
+}
+
+.card-title > h2 {
+  padding-left: 0.1em;
+}
+
+.card-text {
+  border: 0px 1px 1px 1px solid darkgrey;
+}
+
+.card-linklist {
+  list-style-type: none;
+  margin: 0;
+  padding: 0 0 0 0.5em;
+}
+
+.card-linklist > li > a {
+  color: black;
+}
+
+/* Custom styling for the Adblocks page with different adsizes */
+.adblock {
+  background-color: lightgray;
+}
+
+.adblock-300x250 {
+  width: 300px;
+  height: 250px;
+}
+
+.adblock-250x360 {
+  width: 250px;
+  height: 360px;
+}
+
+.adblock-980x240 {
+  width: 930px;
+  height: 240px;
+  margin: auto;
+}
+
+footer {
+  margin-bottom: 1rem;
+  background-color: black;
+  padding: 0.5em 0 0.7em 1em;
+}
+
+footer > p, footer > p > a {
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+/* Width for 1 column 320px+ - 2 columns 640px+ - 3 columns 960 px+ 4 columns 1300 px+  */
+/* 1 Column */
+@media screen and (max-width: 760px) and (min-width: 0px) {
+.wrapper {
+  width: 300px;
+}
+}
+
+/* 2 Column */
+@media screen and (max-width: 1020px) and (min-width: 761px) {
+.wrapper {
+  width: 630px;
+}
+
+header, nav, footer {
+  margin-right: 20px;
+}
+
+}
+
+/* 3 Column */
+@media screen and (max-width: 1400px) and (min-width: 1021px) {
+.wrapper {
+  width: 930px;
+}
+
+header, nav, footer {
+  margin-right: 10px;
+}
+
+}
+
+/*  Column */
+@media screen and (min-width: 1401px) {
+.wrapper {
+  width: 1240px;
+}
+
+header, nav, footer {
+  margin-right: 15px;
+}
+
+}
