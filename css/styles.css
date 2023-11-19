@@ -22,22 +22,6 @@ nav {
   padding: 0.3rem 0rem 0.4rem 1rem;
 }
 
-/* Old Navbar styling
-nav > ul {
-  list-style-type: none;
-  display: flex;
-  margin: 0;
-  padding: 0;
-}
-
-nav > ul > li {
-  padding: 0 1em 0 0;
-}
-nav > ul > li > a {
-  color: black;
-}
-*/
-
 /* Main - Content container with Bootstrap 5 Masonry grid */
 main {
   background-color: white;
@@ -47,6 +31,7 @@ main {
   max-width: 1200px;
 }
 
+/* Defining link column layout */
 .card {
   width: 300px;
   margin: 0 0.5rem 0.5rem 0;
