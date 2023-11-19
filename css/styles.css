@@ -16,8 +16,6 @@ header > h1 > a {
 }
 
 nav {
-  background-color: darkred !important;  
-  color: white;
   margin: 0;
   padding: 0.3rem 0rem 0.4rem 1rem;
 }
@@ -74,7 +72,7 @@ main {
 }
 
 .card-text {
-  border: 0px 1px 1px 1px solid orange;
+  border: 0px 1px 1px 1px solid black;
 }
 
 .card-linklist {
