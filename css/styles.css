@@ -89,7 +89,7 @@ main {
 }
 
 .card-text {
-  border: 0px 1px 1px 1px solid darkgrey;
+  border: 0px 1px 1px 1px solid orange;
 }
 
 .card-linklist {
@@ -143,7 +143,7 @@ footer > p, footer > p > a {
 }
 }
 
-/* 2 Column */
+/* 2 Columns */
 @media screen and (max-width: 1020px) and (min-width: 761px) {
 .wrapper {
   width: 630px;
@@ -155,7 +155,7 @@ header, nav, footer {
 
 }
 
-/* 3 Column */
+/* 3 Columns */
 @media screen and (max-width: 1400px) and (min-width: 1021px) {
 .wrapper {
   width: 930px;
@@ -167,7 +167,7 @@ header, nav, footer {
 
 }
 
-/*  Column */
+/*  4 Columns */
 @media screen and (min-width: 1401px) {
 .wrapper {
   width: 1240px;
