@@ -1,1 +1,0 @@
-// Append: Leading text for GA stats - "UV: " och "UC: "
