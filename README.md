@@ -1,9 +1,9 @@
 # fe23
 Linkguide for Frontend Webbdeveloper students at Grit Academy started spring 2023.
 
-I've been adding some links that has been provided by our teachers and from our students.
+I've been adding some links that has been provided by our teachers, students and just surfin around online.
 
-Feel free to add more links that you would like to share. You can also add pages with guides instructions explaining topics to your fellow students.
+Feel free to add more links that you would like to share. You can also add pages with guides and instructions explaining topics to your fellow students.
 
 GitHub Pages url:
 
@@ -15,3 +15,9 @@ If you choose to contribute to the project, please contact Jens at Grit Academy 
 can be added as a contributer.
 
 Enjoy, Best Jens Christensen
+
+Shared files
+
+UX-design
+Personas Guide
+The Basics of UX design
