@@ -7,7 +7,7 @@ Feel free to add more links that you would like to share. You can also add pages
 
 GitHub Pages url:
 
-Published as part of the Ebizmanager.net website on https://fe23.ebizmanager.net
+Published as part of the GAstudent.online website on https://fe.gastudent.online
 
 If you place additional and relevant files, please make sure that the files are allowed to be shared publicly.
 
