@@ -1,4 +1,5 @@
 # fe
+
 Linkguide for Frontend Webbdeveloper students at Grit Academy
 
 I've been adding some links that has been provided by our teachers, students and just surfin around online.
@@ -11,7 +12,7 @@ Published as part of the GAstudent.online website on https://fe.gastudent.online
 
 If you place additional and relevant files, please make sure that the files are allowed to be shared publicly.
 
-If you choose to contribute to the project, please contact Jens - jcc@jenschrchristensen.com - with your GitHub userid so you
+If you want to contribute to the project, please contact Jens - jcc@jenschrchristensen.com - with your GitHub userid so you
 can be added as a contributer.
 
 Enjoy, Best Jens Christensen - Frontend Webdeveloper student Grit Academy 2023
